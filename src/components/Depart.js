@@ -12,7 +12,7 @@ const Depart = ( { road } ) => {
             animate = {{ x: 0 }}
             transition={{ type: 'spring', delay: 0.5 }}
         >
-            <h2>Thank you ! 🙂</h2>
+            <h2>Thank you ! :)</h2>
             <p>The next departure time for the {road.route.name} route, at {road.stops} stop is : {date} </p>
 
             <a href="/">
