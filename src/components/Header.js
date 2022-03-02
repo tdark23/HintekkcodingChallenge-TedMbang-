@@ -9,7 +9,7 @@ const Header = () => {
         initial = {{ y: -250}}
         transition={{ delay: 0.2, type: 'spring', stiffness: 120 }}
       >
-        <h1>Hintekk Coding Challenge</h1>
+        <h1>Hintekk Challenge</h1>
       </motion.div>
     </header>
   )
